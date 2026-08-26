@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        //recuperando los componentes del xml2
+        //recuperando los componentes del xml3
         val etNum1 = findViewById<EditText>(R.id.etNumber1)
         val etNum2 = findViewById<EditText>(R.id.etNumber2)
         val rgOptions = findViewById<RadioGroup>(R.id.rgOperations)
